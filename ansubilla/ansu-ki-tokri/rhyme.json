@@ -1,0 +1,167 @@
+{
+ "id": "ansu-ki-tokri",
+ "title": {
+  "hindi": "अंसु की टोकरी",
+  "roman": "Ansu Ki Tokri"
+ },
+ "song": "sounds/song_finale.mp3",
+ "feast": {
+  "cover": "images/cover.jpg",
+  "picture": "images/place.jpg",
+  "intro": "sounds/say_intro.mp3",
+  "praise": [
+   "sounds/praise_1.mp3",
+   "sounds/praise_2.mp3",
+   "sounds/praise_3.mp3"
+  ],
+  "end": "sounds/say_end.mp3",
+  "finale": "sounds/song_finale.mp3",
+  "basket": {
+   "image": "images/basket.png",
+   "at": {
+    "x": 0.08,
+    "y": 0.99
+   },
+   "size": 260
+  },
+  "row": {
+   "x0": 0.24,
+   "x1": 0.84,
+   "y": 0.91
+  },
+  "foods": [
+   {
+    "id": "mango",
+    "image": "images/mango.png",
+    "size": 160
+   },
+   {
+    "id": "banana",
+    "image": "images/banana.png",
+    "size": 160
+   },
+   {
+    "id": "apple",
+    "image": "images/apple.png",
+    "size": 160
+   },
+   {
+    "id": "grapes",
+    "image": "images/grapes.png",
+    "size": 170
+   },
+   {
+    "id": "orange",
+    "image": "images/orange.png",
+    "size": 160
+   },
+   {
+    "id": "watermelon",
+    "image": "images/watermelon.png",
+    "size": 210
+   }
+  ],
+  "friends": [
+   {
+    "id": "sher",
+    "image": "images/sher.png",
+    "at": {
+     "x": 0.12,
+     "y": 0.84
+    },
+    "height": 0.38,
+    "mouth": {
+     "x": 0.5,
+     "y": 0.33
+    },
+    "food": "mango",
+    "ask": "sounds/say_ask_sher.mp3",
+    "song": "sounds/song_sher.mp3"
+   },
+   {
+    "id": "bandar",
+    "image": "images/bandar.png",
+    "at": {
+     "x": 0.27,
+     "y": 0.84
+    },
+    "height": 0.3,
+    "mouth": {
+     "x": 0.5,
+     "y": 0.3
+    },
+    "food": "banana",
+    "ask": "sounds/say_ask_bandar.mp3",
+    "song": "sounds/song_bandar.mp3"
+   },
+   {
+    "id": "jiraaf",
+    "image": "images/jiraaf.png",
+    "at": {
+     "x": 0.89,
+     "y": 0.84
+    },
+    "height": 0.62,
+    "mouth": {
+     "x": 0.42,
+     "y": 0.1
+    },
+    "food": "apple",
+    "ask": "sounds/say_ask_jiraaf.mp3",
+    "song": "sounds/song_jiraaf.mp3"
+   },
+   {
+    "id": "bhaalu",
+    "image": "images/bhaalu.png",
+    "at": {
+     "x": 0.57,
+     "y": 0.84
+    },
+    "height": 0.36,
+    "mouth": {
+     "x": 0.5,
+     "y": 0.25
+    },
+    "food": "grapes",
+    "ask": "sounds/say_ask_bhaalu.mp3",
+    "song": "sounds/song_bhaalu.mp3"
+   },
+   {
+    "id": "ansu",
+    "image": "images/ansu.png",
+    "at": {
+     "x": 0.42,
+     "y": 0.84
+    },
+    "height": 0.3,
+    "mouth": {
+     "x": 0.5,
+     "y": 0.32
+    },
+    "food": "orange",
+    "ask": "sounds/say_ask_ansu.mp3",
+    "song": "sounds/song_ansu.mp3"
+   },
+   {
+    "id": "haathi",
+    "image": "images/haathi.png",
+    "at": {
+     "x": 0.73,
+     "y": 0.8
+    },
+    "height": 0.44,
+    "mouth": {
+     "x": 0.42,
+     "y": 0.55
+    },
+    "food": "watermelon",
+    "ask": "sounds/say_ask_haathi.mp3",
+    "song": "sounds/song_haathi.mp3"
+   }
+  ],
+  "treat": {
+   "image": "images/chaat.png",
+   "size": 460
+  }
+ }
+}
