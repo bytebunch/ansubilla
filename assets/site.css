@@ -200,6 +200,16 @@ p, .facts span { text-wrap: pretty; }
   .back { padding: 8px 14px 8px 10px; font-size: 0.95rem; gap: 6px; }
 }
 
+/* Ansu's channels, for grown-ups (Ansu's page). */
+.watch-lead { margin: 0 0 16px; font-size: 1.05rem; color: var(--ink); }
+.watch-actions { display: flex; flex-wrap: wrap; gap: 12px; }
+.follow { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 20px 0 0; padding: 0; list-style: none; font-weight: 700; color: var(--brown-soft); }
+.follow a { color: var(--brown); font-weight: 800; text-decoration-thickness: 2px; text-underline-offset: 3px; }
+@media (max-width: 520px) {
+  .watch-actions { flex-direction: column; }
+  .watch-actions .button { width: 100%; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .card.link, .button { transition: none; }
