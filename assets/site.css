@@ -106,7 +106,7 @@ p, .facts span { text-wrap: pretty; }
 
 .section { padding-top: 8px; padding-bottom: 28px; }
 .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 0 0 18px; }
-.section-head h2 { margin: 0; font-size: clamp(1.5rem, 3.4vw, 1.9rem); font-weight: 800; color: var(--brown); letter-spacing: -0.01em; }
+.section-head h1, .section-head h2 { margin: 0; font-size: clamp(1.5rem, 3.4vw, 1.9rem); font-weight: 800; color: var(--brown); letter-spacing: -0.01em; }
 
 /* a card you can open (a friend on the home page) */
 .card {

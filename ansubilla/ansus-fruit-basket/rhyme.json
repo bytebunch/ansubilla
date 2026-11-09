@@ -162,5 +162,20 @@
    "image": "images/chaat.png",
    "size": 460
   }
+ },
+ "page": {
+  "title": "Ansu's Fruit Basket: a Fruit Game for Kids Aged 2 to 6",
+  "description": "Ansu the kitten and his jungle friends each ask for their favourite fruit. Drag the right one to them: they munch it up and sing! A sing-along game for toddlers and kids aged 2 to 6.",
+  "url": "https://games.bytebunch.com/ansubilla/ansus-fruit-basket/",
+  "image": "https://games.bytebunch.com/ansubilla/images/og-fruit-basket.jpg",
+  "site": "ByteBunch Games",
+  "ages": [
+   2,
+   6
+  ],
+  "alternates": {
+   "hi": "https://games.bytebunch.com/ansubilla/ansu-ki-tokri/",
+   "x-default": "https://games.bytebunch.com/ansubilla/ansus-fruit-basket/"
+  }
  }
 }

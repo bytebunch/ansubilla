@@ -163,5 +163,20 @@
    "image": "images/chaat.png",
    "size": 460
   }
+ },
+ "page": {
+  "title": "अंसु की टोकरी (Ansu Ki Tokri): बच्चों का फल वाला खेल",
+  "description": "अंसु बिल्ला और उसके जंगल के दोस्त अपना पसंदीदा फल माँगते हैं। सही फल उन तक पहुँचाओ: वे मज़े से खाते हैं और गाना गाते हैं! 2 से 6 साल के बच्चों के लिए गाने वाला खेल।",
+  "url": "https://games.bytebunch.com/ansubilla/ansu-ki-tokri/",
+  "image": "https://games.bytebunch.com/ansubilla/images/og-tokri.jpg",
+  "site": "ByteBunch Games",
+  "ages": [
+   2,
+   6
+  ],
+  "alternates": {
+   "en": "https://games.bytebunch.com/ansubilla/ansus-fruit-basket/",
+   "x-default": "https://games.bytebunch.com/ansubilla/ansus-fruit-basket/"
+  }
  }
 }
