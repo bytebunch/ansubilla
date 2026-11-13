@@ -4,13 +4,14 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://games.bytebunch.com/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <image:image><image:loc>https://games.bytebunch.com/assets/ansu-billa-800.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://games.bytebunch.com/ansubilla/</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/fruit-basket-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/rain-rain-go-away-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/banner-1400.jpg</image:loc></image:image>
   </url>
   <url>
@@ -28,5 +29,21 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://games.bytebunch.com/ansubilla/ansu-ki-tokri/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://games.bytebunch.com/ansubilla/ansus-fruit-basket/"/>
     <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/og-tokri.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://games.bytebunch.com/ansubilla/rain-rain-go-away/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://games.bytebunch.com/ansubilla/rain-rain-go-away/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://games.bytebunch.com/ansubilla/baarish-baarish-jaao-na/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://games.bytebunch.com/ansubilla/rain-rain-go-away/"/>
+    <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/rain-rain-go-away.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://games.bytebunch.com/ansubilla/baarish-baarish-jaao-na/</loc>
+    <lastmod>2026-11-14</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://games.bytebunch.com/ansubilla/rain-rain-go-away/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://games.bytebunch.com/ansubilla/baarish-baarish-jaao-na/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://games.bytebunch.com/ansubilla/rain-rain-go-away/"/>
+    <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/baarish-baarish-jaao-na.jpg</image:loc></image:image>
   </url>
 </urlset>

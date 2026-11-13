@@ -105,6 +105,8 @@ p, .facts span { text-wrap: pretty; }
 .chip svg { width: 18px; height: 18px; flex: none; }
 
 .section { padding-top: 8px; padding-bottom: 28px; }
+/* games one under the other on a friend's page */
+.card + .card { margin-top: 24px; }
 .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin: 0 0 18px; }
 .section-head h1, .section-head h2 { margin: 0; font-size: clamp(1.5rem, 3.4vw, 1.9rem); font-weight: 800; color: var(--brown); letter-spacing: -0.01em; }
 
