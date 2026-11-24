@@ -1,0 +1,209 @@
+{
+ "id": "my-eyes-my-ears",
+ "title": {
+  "english": "My Eyes, My Ears"
+ },
+ "song": "sounds/song_intro.mp3",
+ "story": {
+  "cover": "images/cover.jpg",
+  "intro": "sounds/say_intro.mp3",
+  "praise": [
+   "sounds/say_praise_1.mp3",
+   "sounds/say_praise_2.mp3",
+   "sounds/say_praise_3.mp3",
+   "sounds/say_praise_4.mp3"
+  ],
+  "end": "sounds/say_end.mp3",
+  "steps": [
+   {
+    "id": "eyes",
+    "kind": "taps",
+    "picture": "images/eyes.jpg",
+    "say": "sounds/say_eyes.mp3",
+    "song": "sounds/song_eyes.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.43,
+      "y": 0.42,
+      "r": 0.05
+     },
+     {
+      "x": 0.57,
+      "y": 0.42,
+      "r": 0.05
+     }
+    ]
+   },
+   {
+    "id": "butterfly",
+    "kind": "taps",
+    "picture": "images/butterfly.jpg",
+    "say": "sounds/say_butterfly.mp3",
+    "song": "sounds/song_butterfly.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.5,
+      "y": 0.34,
+      "r": 0.1
+     }
+    ]
+   },
+   {
+    "id": "nose",
+    "kind": "taps",
+    "picture": "images/nose.jpg",
+    "say": "sounds/say_nose.mp3",
+    "song": "sounds/song_nose.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.5,
+      "y": 0.48,
+      "r": 0.045
+     }
+    ]
+   },
+   {
+    "id": "rose",
+    "kind": "feed",
+    "picture": "images/rose.jpg",
+    "say": "sounds/say_rose.mp3",
+    "song": "sounds/song_rose.mp3",
+    "target": {
+     "x": 0.51,
+     "y": 0.52,
+     "r": 0.05
+    },
+    "tool": {
+     "image": "images/rose.png",
+     "at": {
+      "x": 0.15,
+      "y": 0.6
+     },
+     "tip": {
+      "x": 0.5,
+      "y": 0.3
+     },
+     "size": 300
+    },
+    "count": 2
+   },
+   {
+    "id": "ears",
+    "kind": "taps",
+    "picture": "images/ears.jpg",
+    "say": "sounds/say_ears.mp3",
+    "song": "sounds/song_ears.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.35,
+      "y": 0.19,
+      "r": 0.06
+     },
+     {
+      "x": 0.65,
+      "y": 0.16,
+      "r": 0.06
+     }
+    ]
+   },
+   {
+    "id": "feet",
+    "kind": "taps",
+    "picture": "images/feet.jpg",
+    "say": "sounds/say_feet.mp3",
+    "song": "sounds/song_feet.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.45,
+      "y": 0.91,
+      "r": 0.045
+     },
+     {
+      "x": 0.57,
+      "y": 0.92,
+      "r": 0.045
+     }
+    ]
+   },
+   {
+    "id": "wash",
+    "kind": "scrub",
+    "picture": "images/wash.jpg",
+    "say": "sounds/say_wash.mp3",
+    "song": "sounds/song_wash.mp3",
+    "target": {
+     "x": 0.51,
+     "y": 0.73,
+     "r": 0.07
+    },
+    "tool": {
+     "image": "images/soap.png",
+     "at": {
+      "x": 0.88,
+      "y": 0.79
+     },
+     "tip": {
+      "x": 0.5,
+      "y": 0.5
+     },
+     "size": 200
+    }
+   },
+   {
+    "id": "whiskers",
+    "kind": "taps",
+    "picture": "images/whiskers.jpg",
+    "say": "sounds/say_whiskers.mp3",
+    "song": "sounds/song_whiskers.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.38,
+      "y": 0.54,
+      "r": 0.06
+     },
+     {
+      "x": 0.62,
+      "y": 0.53,
+      "r": 0.06
+     }
+    ]
+   },
+   {
+    "id": "tail",
+    "kind": "taps",
+    "picture": "images/tail.jpg",
+    "say": "sounds/say_tail.mp3",
+    "song": "sounds/song_tail.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.665,
+      "y": 0.55,
+      "r": 0.07
+     }
+    ]
+   }
+  ]
+ },
+ "page": {
+  "title": "My Eyes, My Ears: a Body Parts Game for Kids Aged 2 to 6",
+  "description": "Learn body parts with Ansu the kitten: touch his eyes, nose, ears, feet, whiskers and tail, bring him a rose and wash his hands, singing along. Ages 2 to 6.",
+  "url": "https://games.bytebunch.com/ansubilla/my-eyes-my-ears/",
+  "image": "https://games.bytebunch.com/ansubilla/images/my-eyes-my-ears.jpg",
+  "site": "ByteBunch Games",
+  "ages": [
+   2,
+   6
+  ],
+  "alternates": {
+   "hi": "https://games.bytebunch.com/ansubilla/meri-aankhein-mere-kaan/",
+   "x-default": "https://games.bytebunch.com/ansubilla/my-eyes-my-ears/"
+  }
+ }
+}
