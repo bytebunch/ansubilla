@@ -1,0 +1,213 @@
+{
+ "id": "sabzi-sabzi-rang-birangi",
+ "title": {
+  "hindi": "सब्ज़ी, सब्ज़ी, रंग-बिरंगी",
+  "roman": "Sabzi Sabzi Rang-Birangi"
+ },
+ "song": "sounds/song_intro.mp3",
+ "story": {
+  "cover": "images/cover.jpg",
+  "intro": "sounds/say_intro.mp3",
+  "praise": [
+   "sounds/say_praise_1.mp3",
+   "sounds/say_praise_2.mp3",
+   "sounds/say_praise_3.mp3",
+   "sounds/say_praise_4.mp3"
+  ],
+  "end": "sounds/say_end.mp3",
+  "steps": [
+   {
+    "id": "heap",
+    "kind": "taps",
+    "picture": "images/heap.jpg",
+    "say": "sounds/say_heap.mp3",
+    "song": "sounds/song_heap.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.375,
+      "y": 0.66,
+      "r": 0.055
+     },
+     {
+      "x": 0.48,
+      "y": 0.59,
+      "r": 0.04
+     },
+     {
+      "x": 0.52,
+      "y": 0.39,
+      "r": 0.05
+     },
+     {
+      "x": 0.645,
+      "y": 0.52,
+      "r": 0.04
+     },
+     {
+      "x": 0.55,
+      "y": 0.75,
+      "r": 0.045
+     },
+     {
+      "x": 0.72,
+      "y": 0.75,
+      "r": 0.04
+     }
+    ]
+   },
+   {
+    "id": "carrot",
+    "kind": "taps",
+    "picture": "images/carrot.jpg",
+    "say": "sounds/say_carrot.mp3",
+    "song": "sounds/song_carrot.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.385,
+      "y": 0.7,
+      "r": 0.05
+     }
+    ]
+   },
+   {
+    "id": "tomato",
+    "kind": "taps",
+    "picture": "images/tomato.jpg",
+    "say": "sounds/say_tomato.mp3",
+    "song": "sounds/song_tomato.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.495,
+      "y": 0.75,
+      "r": 0.07
+     }
+    ]
+   },
+   {
+    "id": "eggplant",
+    "kind": "taps",
+    "picture": "images/eggplant.jpg",
+    "say": "sounds/say_eggplant.mp3",
+    "song": "sounds/song_eggplant.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.54,
+      "y": 0.77,
+      "r": 0.08
+     }
+    ]
+   },
+   {
+    "id": "cauliflower",
+    "kind": "taps",
+    "picture": "images/cauliflower.jpg",
+    "say": "sounds/say_cauliflower.mp3",
+    "song": "sounds/song_cauliflower.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.49,
+      "y": 0.61,
+      "r": 0.08
+     }
+    ]
+   },
+   {
+    "id": "pepper",
+    "kind": "bubbles",
+    "picture": "images/pepper.jpg",
+    "say": "sounds/say_pepper.mp3",
+    "song": "sounds/song_pepper.mp3",
+    "count": 8
+   },
+   {
+    "id": "potato",
+    "kind": "scrub",
+    "picture": "images/potato.jpg",
+    "say": "sounds/say_potato.mp3",
+    "song": "sounds/song_potato.mp3",
+    "target": {
+     "x": 0.5,
+     "y": 0.71,
+     "r": 0.06
+    },
+    "tool": {
+     "image": "images/brush.png",
+     "at": {
+      "x": 0.85,
+      "y": 0.55
+     },
+     "tip": {
+      "x": 0.43,
+      "y": 0.75
+     },
+     "size": 260
+    }
+   },
+   {
+    "id": "eat",
+    "kind": "feed",
+    "picture": "images/eat.jpg",
+    "say": "sounds/say_eat.mp3",
+    "song": "sounds/song_eat.mp3",
+    "target": {
+     "x": 0.485,
+     "y": 0.505,
+     "r": 0.05
+    },
+    "tool": {
+     "image": "images/spoon.png",
+     "at": {
+      "x": 0.14,
+      "y": 0.66
+     },
+     "tip": {
+      "x": 0.34,
+      "y": 0.63
+     },
+     "size": 300
+    },
+    "count": 3
+   },
+   {
+    "id": "muscle",
+    "kind": "taps",
+    "picture": "images/muscle.jpg",
+    "say": "sounds/say_muscle.mp3",
+    "song": "sounds/song_muscle.mp3",
+    "effect": "sparkle",
+    "places": [
+     {
+      "x": 0.355,
+      "y": 0.39,
+      "r": 0.045
+     },
+     {
+      "x": 0.375,
+      "y": 0.53,
+      "r": 0.045
+     }
+    ]
+   }
+  ]
+ },
+ "page": {
+  "title": "सब्ज़ी, सब्ज़ी, रंग-बिरंगी (Sabzi Sabzi Rang-Birangi): सब्ज़ियों का खेल",
+  "description": "अंसु बिल्ला के साथ खेलो: गाजर, टमाटर, बैंगन और फूलगोभी छू कर पहचानो, शिमला मिर्च धोओ, आलू रगड़ो और अंसु को सब्ज़ी खिलाओ, गाने के साथ! 2 से 6 साल के बच्चों के लिए।",
+  "url": "https://games.bytebunch.com/ansubilla/sabzi-sabzi-rang-birangi/",
+  "image": "https://games.bytebunch.com/ansubilla/images/sabzi-sabzi-rang-birangi.jpg",
+  "site": "ByteBunch Games",
+  "ages": [
+   2,
+   6
+  ],
+  "alternates": {
+   "en": "https://games.bytebunch.com/ansubilla/ansu-eats-his-veggies/",
+   "x-default": "https://games.bytebunch.com/ansubilla/ansu-eats-his-veggies/"
+  }
+ }
+}

@@ -4,15 +4,16 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://games.bytebunch.com/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <image:image><image:loc>https://games.bytebunch.com/assets/ansu-billa-800.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://games.bytebunch.com/ansubilla/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/fruit-basket-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/rain-rain-go-away-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/my-eyes-my-ears-1200.jpg</image:loc></image:image>
+    <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/ansu-eats-his-veggies-1200.jpg</image:loc></image:image>
     <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/banner-1400.jpg</image:loc></image:image>
   </url>
   <url>
@@ -62,5 +63,21 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://games.bytebunch.com/ansubilla/meri-aankhein-mere-kaan/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://games.bytebunch.com/ansubilla/my-eyes-my-ears/"/>
     <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/meri-aankhein-mere-kaan.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://games.bytebunch.com/ansubilla/ansu-eats-his-veggies/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://games.bytebunch.com/ansubilla/ansu-eats-his-veggies/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://games.bytebunch.com/ansubilla/sabzi-sabzi-rang-birangi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://games.bytebunch.com/ansubilla/ansu-eats-his-veggies/"/>
+    <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/ansu-eats-his-veggies.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://games.bytebunch.com/ansubilla/sabzi-sabzi-rang-birangi/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://games.bytebunch.com/ansubilla/ansu-eats-his-veggies/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://games.bytebunch.com/ansubilla/sabzi-sabzi-rang-birangi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://games.bytebunch.com/ansubilla/ansu-eats-his-veggies/"/>
+    <image:image><image:loc>https://games.bytebunch.com/ansubilla/images/sabzi-sabzi-rang-birangi.jpg</image:loc></image:image>
   </url>
 </urlset>
